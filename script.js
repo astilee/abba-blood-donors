@@ -144,7 +144,57 @@ Chengannur
 18/01/2026 10:13:20,Binu chacko ,Puthukkeril puthenchira puthencavu,O positive (O+),9947332511,Puthencavu
 18/01/2026 12:57:20,Jino Varghese ,Arayalumootil ,O positive (O+),+6440223919371,Newzland 
 19/01/2026 02:12:53,JAS FELIX SUNIL ,Kollarayam peedikayil puthencavu P.O Chengannur ,O positive (O+),8075740173,Bangalore 
-`; 
+26/01/2026 17:51:12,AKHIL SOMAN ,Puthuparambil house edayaranmula po edayaranmula 689532,AB positive (AB+),9645275937,Chengannur 
+26/01/2026 17:54:46,Asher georgy jacob,Melepurathu house ,A positive (A+),+91 9995324107,Dubai
+26/01/2026 18:00:43,Mahesh Panicker ,"Anjilimoottil (House )
+Nellimala Po
+Eraviperoor 
+Kumbanad ",B positive (B+),9947064045,Nellimala. Kumbanad to Othera road 
+26/01/2026 18:45:38,SUNNY THOMAS,"Kizhakke Puthenpurackal, Puthencavu P. O., Chengannur",O positive (O+),9961891717,"Puthencavu, Chengannur"
+26/01/2026 21:02:05,Jomon mathew joseph,"Kochazhikakathu (H)
+Puthencavu po 
+Angadical
+Chengannur ",O positive (O+),+919847307302,Bahrain 
+26/01/2026 22:16:20,JOSEPH CHERIAN ,"NEDUMPARAMPIL, PIRALASERRY P.O, CHENGANNUR",O positive (O+),+918138822780,DUBAI
+26/01/2026 22:32:51,Thomas Mathew,"Karakkattu puthenveedu, Puthencavu Chengannur",B negative (B-),00971505402926,"Dubai, United Arab Emirates"
+27/01/2026 02:01:41,JITHIN MAMMEN GEORGE ,Kizhakkethalackal peedikayil,A positive (A+),+16474259291,Canada 
+27/01/2026 12:14:22,Biju Alexander ,Aviratharakan Peedikayil puthencavu p.o chengannur ,A positive (A+),8281355974,Puthencavu 
+27/01/2026 13:07:21,Shibin P Cherian ,Pynummoottil Sherin’s Puthencavu PO Chengannur ,O positive (O+),0096899416795,Oman Muscat 
+27/01/2026 13:39:56,Rudraksh.s,"Anizham house , Angadical ,Puthencavu po,Chengannur",A positive (A+),6238184487,"Chengannur , INDIA"
+27/01/2026 15:27:50,Alen s aju,"
+Pali padinjarethil puthencavu po Chengannur ",O positive (O+),9744421034,Puthencavu Mathentharakan School 
+28/01/2026 10:48:09,Sachin Mathew,"Mamkoottathil House, Piralasery P.O, Chengannur,Alappuzha",B positive (B+),+973 35576678,"Manama, Bahrain "
+28/01/2026 11:43:01,Mathewvarghese,Kizhakke kuttiyil puthencavu ,B positive (B+),+996 1510939,Puthencavu 
+28/01/2026 12:14:31,SONIJOHN,"Edavanathucavil, puthencavu, chengannur",O positive (O+),9605360772,Keezhcherimel
+29/01/2026 14:03:01,Abel Varghese ,"Alummoottil house 
+Puthencavu ",O positive (O+),8281063356,"Puthencavu, chengannur "
+29/01/2026 17:30:20,Alan Manoj,"Kallelil Puthenveedu,Kunnathumkara p.o,East Othera",B positive (B+),9995168343,East Othera
+30/01/2026 13:22:17,Josh Joy Mathai ,Mannil Thundiyil Josh Villa Piralassery po Chengannur ,AB positive (AB+),7012943026,Chengannur and india
+30/01/2026 22:17:07,Varghese Abraham ,Applipudayidathil Mulakuzha PO Chengannur ,O negative (O-),9061345407,Chengannur 
+31/01/2026 12:14:33,Sabu Thomas ,"Alummoottil Breezeland, Edanad",A positive (A+),8921456615,"Puthencavu Eraviperoor Road, Near Bridge"
+31/01/2026 12:17:35,Jacob Koshy,"Pallickal, Edanad, Chengannur ",A positive (A+),9495713241,"Church Road, Edanad"
+31/01/2026 12:21:56,Justin thomas,Melepurathu angadikal p.o chengannur ,B positive (B+),8606873082,Angadical 
+31/01/2026 12:24:55,Babu Alexander ,Avera Tharakan peedikayil Puthencavu p.o Chengannur ,O negative (O-),9447304109,PUTHENCAVU 
+31/01/2026 12:25:28,Georgy mathew,Melepurathu piralassery p.o chengannur ,A positive (A+),8714339969,Angadical 
+31/01/2026 12:53:13,JINU GEORGE,"KUNNUMPURATHU,  PUTHENCAVU  P. O, CHENGANNUR, ALAPPUZHA DIST- 689 123",A positive (A+),"9497786567,  7025760750","PUTHENCAVU, CHENGANNUR"
+31/01/2026 13:22:29,Manoj .r. Nair,Mathilakam House puthencavu p.o chengannur ,O positive (O+),9447023232,Puthencavu 
+01/02/2026 17:43:25,Shibin Thomas,Chengottayil house puthencavu p.o Chenganur ,O positive (O+),9744433121,Puthencavu
+01/02/2026 22:32:28,Prince A Reji,Malayil Ayrookuzhiyil Puthencavu p.o chengannur,A positive (A+),9605275944,Near fortune mart
+01/02/2026 23:52:25,AJU SOMAN,"Thalakkottu,puthencavu ",O positive (O+),00971566296374,ABUDHABI 
+02/02/2026 14:29:31,Vishnu prasad ,"Painummoottill vadakethill, mulakuzha P. O, chengannur ",O positive (O+),9744832897,Century junction mulakuzha 
+03/02/2026 13:31:37,James mathew,"Anickal house, Edanadu po, Chengannur",O positive (O+),9656573503,United Kingdom 
+03/02/2026 15:05:45,Jeswin juby ,Allummootil house puthencavu po chengannur ,O positive (O+),7025880741,Puthencavu chengannur 
+04/02/2026 20:22:45,Abin varghese jacob ,Edavathra peedikayil puthencavu p.o chengannur ,O positive (O+),7025302085,Chengannur
+05/02/2026 23:22:39,RAJIMON P NINAN,PYNUMMOOTTIL HOUSE PUTHENCAVU P O CHENGANNUR,A positive (A+),00971554365928,DUBAI UAE
+06/02/2026 14:01:32,Biku Mathew Abraham,Ayrukuzhiyil House Puthencavu Po Chengannur,B positive (B+),0508395243,Dubai
+06/02/2026 14:10:27,Abin jacob varkey,"Mulakuzha Peedikayil 
+Puthencavu p.o 
+Chengannur ",O positive (O+),9656502588,"PUTHENCAVU, chengannur "
+07/02/2026 13:17:49,Aaron Sanju,"Nedumparambil ho,Piralassery Po,Puthencavu,Chengannur ",B positive (B+),8138092741,Chengannur 
+07/02/2026 14:10:18,Reji George ,Malayil ayrookuzhiyil puthencavu p.o chengannur ,A positive (A+),±917025799866,Puthencavu 
+07/02/2026 14:12:41,Yohanan varghese ( thampi othera),Kochuvila modiyil othera p.o thiruvalla ,O positive (O+),9947072444,Othera
+07/02/2026 16:34:26,Nimish Oommen,Peedikaparambil Puthencavu. P.O Chengannur ,A positive (A+),+91 8606933524,Puthencavu
+`;
 function parseCSV(csv) {
     const rows = [];
     let row = [];
@@ -180,7 +230,7 @@ function parseCSV(csv) {
         rows.push(row);
     }
 
-    rows.shift(); 
+    rows.shift();
 
     return rows.map(r => ({
         name: r[1]?.trim() || "Unknown",
